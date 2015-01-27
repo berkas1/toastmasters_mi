@@ -3,3 +3,4 @@ composer.lock
 composer.phar
 src/config.php
 tmp
+.idea
