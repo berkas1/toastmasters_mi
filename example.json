@@ -1,0 +1,12 @@
+{
+  "invitations": [
+    {
+      "invitation": {
+        "moderator": "Name of Toastmaster",
+        "event_date": "2.2.2015",
+        "invitation_text": "Invitation text, no HTML accepted, use \n instead of <br>",
+        "easyspeak_link": "http://tmclub.eu/view_meeting.php?t=49790"
+      }
+    }
+  ]
+}

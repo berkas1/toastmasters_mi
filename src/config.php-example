@@ -1,0 +1,45 @@
+<?php
+//data feed url
+$feed_url = '';
+
+//google analytics code
+$meeting['ga_code'] = 'UA-xxxxxxx-y';
+
+//security settings
+$security['status'] = 0;
+$security['apikey'] = '';
+$security['ip'] = '';
+
+
+//Club specific information
+$meeting['title'] = <<<EOD
+Title of the club
+EOD;
+
+$meeting['when'] = <<<EOD
+when we meet
+EOD;
+
+$meeting['place'] = <<<EOD
+ -where <strong>we <a href="#" target="_blank">meet</a></strong>
+EOD;
+
+$meeting['promo1'] = <<<EOD
+<h2>Title 1</h2>
+      <p><strong>Subtitle 2 Subtitle 2 Subtitle 2</p>
+      <br>Some <a href="#">contact form</a></strong>.
+EOD;
+
+$meeting['promo2'] = <<<EOD
+<p>Promo 2 text here....</p>
+EOD;
+
+$meeting['img01'] = 'Description 1';
+$meeting['img02'] = 'Description 2';
+$meeting['img03'] = 'Description 3';
+
+$meeting['social'] = <<<EOD
+<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+EOD;
+
