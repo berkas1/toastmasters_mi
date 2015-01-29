@@ -1,6 +1,6 @@
 ## Toastmasters Meeting Invitation
 
-Toastmasterm Meeting Invitation is simple automated tool written in php intended to be used by Toastmasters club. This app can help you to present invitation to your next meeting without EasySpeak. You only need to edit one file to get it running.
+Toastmasters Meeting Invitation is simple automated tool written in php intended to be used by Toastmasters club. This app can help you to present invitation to your next meeting without EasySpeak. You only need to edit one file to get it running.
 
 ### What does it do?
 
@@ -12,7 +12,7 @@ It generates one-page website with simple responsive design (real-world example 
 - links to social networks
 
 
-It aims to provide simple way for everyone to invite someone to club meeting without sending any mails or links to Easyspeak.
+It aims to provide simple way for everyone to invite someone to club meeting without sending any e-mails or links to Easyspeak.
 
 
 ### How does it work?
