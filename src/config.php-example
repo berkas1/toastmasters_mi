@@ -24,6 +24,14 @@ $meeting['place'] = <<<EOD
  -where <strong>we <a href="#" target="_blank">meet</a></strong>
 EOD;
 
+$meeting['button1'] = <<<EOD
+Button 1 &#8595;
+EOD;
+
+$meeting['button2'] = <<<EOD
+Button 2 &#8595;
+EOD;
+
 $meeting['promo1'] = <<<EOD
 <h2>Title 1</h2>
       <p><strong>Subtitle 2 Subtitle 2 Subtitle 2</p>

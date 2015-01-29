@@ -67,7 +67,7 @@
 
         <p></p>
         <p></p>
-        <a href="#work" class="button big scrolly">Zobrazit pozvánku  &#8595;</a>
+        <a href="#work" class="button big scrolly"><?php echo(htmlspecialchars_decode($meeting['button1']));?></a>
       </div>
     </div>
   </article>
@@ -85,7 +85,7 @@
     </header>
     <div class="container" id="work">
       <strong><?=nl2br($this->e($invitation_text))?></strong>
-      <br><p></p>      <a href="#portfolio" class="button big scrolly">Chci přijít na setkání  &#8595;</a>
+      <br><p></p>      <a href="#portfolio" class="button big scrolly"><?php echo(htmlspecialchars_decode($meeting['button2']));?></a>
 
     </div>
 
